@@ -5,7 +5,7 @@ WEEK 1 – Modern C# in isolation (Days 1-7)
 
 | Day | 30-min micro-task                                                  | Proof              |
 | --- | ------------------------------------------------------------------ | ------------------ |
-| 1   | Top-level statements: `dotnet new console` → hello world in 1 file | commit             |
+| 1   | Top-level statements: `dotnet new console` → hello C# | [commit](https://github.com/ammaralnajim/30-day-csharp-aspnet/commit/0a3d4b2fea221a8b96594d1967cef3077ef042a8)             |
 | 2   | Nullable refs ON (`<Nullable>enable</Nullable>`) & fix warnings    | commit             |
 | 3   | Records & `with` expressions: immutable `Point` type               | commit             |
 | 4   | LINQ crash: `Select`, `Where`, `GroupBy` on a list of students     | commit             |
